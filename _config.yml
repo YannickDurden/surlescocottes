@@ -1,0 +1,46 @@
+theme: minimalist-theme
+markdown: kramdown
+#paginate: 5
+#paginate_path: "/blog/page:num/"
+
+collections:
+    authors:
+        output: true
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+title: surlescocottes
+description: ride, dev and other stories
+url: https://surlescocottes.xyz
+
+social:
+  linkedin: yannickfrancois
+  github: YannickDurden
+  instagram: YannickDurden
+  strava: /16018371
+
+header:
+  title: surlescocottes
+  subtitle: ride, dev & other stories
+
+footer:
+  text: Yannick
+
+about:
+  username: Yannick
+  subtitle: Epicurien à bicyclette
+
+permalink: /:title/
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
