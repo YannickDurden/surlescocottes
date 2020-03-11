@@ -1,10 +1,10 @@
 ---
 layout: post
 author: Yannick
-title:  "Transition, la suite"
+title:  "Transition - partie 2"
 date:   2020-02-10 14:16:18 +0100
 categories: [story, feedback]
-comments: true
+comments: false
 ---
 Ce que j’aime beaucoup, c’est découvrir de nouvelles routes et l’avantage dans le Grand Est (parce qu’il en faut quand même), c’est d’être limitrophe avec l’Allemagne, le Luxembourg et la Belgique. Alors lorsque le temps se prête au jeu et que j’ai une envie de chiller toute la journée il n’y a qu’une chose à faire : opération création d’itinéraire sur Strava.
 

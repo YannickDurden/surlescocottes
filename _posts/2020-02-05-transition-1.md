@@ -1,10 +1,10 @@
 ---
 layout: post
 author: Yannick
-title:  "2019 - 2020, la Transition"
+title:  "Transition - partie 1"
 date:   2020-02-05 14:16:18 +0100
 categories: [story, feedback]
-comments: true
+comments: false
 ---
 3124, c’est le nombre de kilomètre parcouru en 2019 en quelques 80 sorties.
 Un peu de déception de ne pas avoir pu en faire davantage notamment avec un objectif de 3500km. En cette nouvelle année, il est temps d’en tirer des leçons, de revenir sur les bonnes sorties et cyclosportives réalisées.
