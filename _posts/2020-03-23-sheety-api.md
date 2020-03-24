@@ -2,7 +2,7 @@
 layout: post
 author: Yannick
 title:  "Sheety, l'api facile"
-date:   2020-03-23 23:00:00 +0100
+date:   2020-03-23 18:00:00 +0100
 categories: [dev]
 comments: true
 ---
@@ -27,7 +27,7 @@ L'API nous renvoi bien notre première dépense, on est content ! Pourquoi mon i
 
 # Sheety et Angular
 
-Comme je le disais plus haut, l'idée est de faire une app qui va permettra d'ajouter simplement les dépenses du quotidien et là j'imaginais plutôt deux pages : 
+Comme je le disais plus haut, l'idée est de faire une app qui va permettre d'ajouter simplement les dépenses du quotidien et là j'imaginais plutôt deux pages : 
 - Une première avec un formulaire pour ajouter un libellé, le coût et sa catégorie
 - Une seconde avec la liste des dépenses
 
@@ -46,7 +46,7 @@ Pour ce qui est de l'envoi des données, il s'agit d'un service des plus classiq
 
 ![stackblitz - demo](/assets/images/sheety/demo.gif)
 
-Je ne pourrais pas tromper votre sens aiguisé de l'observation en vous parlant de la fenêtre de droite d'ouverte avec la dite feuille Google Sheets qui se met à jour rapidement une fois l'action réalisée, preuve que Sheety carbure pas mal derrière. On pourrait aussi aller plus loin en filtrant sur les catégories lors de la récupération des dépenses, car oui, Sheety permet aussi d'ajouter des filtres dans l'url d'appel du genre :
+Je ne pourrais pas tromper votre sens aiguisé de l'observation en vous parlant de la fenêtre de droite ouverte avec la dite feuille Google Sheets qui se met à jour rapidement une fois l'action réalisée, preuve que Sheety carbure pas mal derrière. On pourrait aussi aller plus loin en filtrant sur les catégories lors de la récupération des dépenses, car oui, Sheety permet aussi d'ajouter des filtres dans l'url d'appel du genre :
 
 ![terminak - filtre](/assets/images/sheety/terminal-filtre.png)
 
