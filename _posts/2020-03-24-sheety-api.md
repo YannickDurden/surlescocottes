@@ -2,7 +2,9 @@
 layout: post
 author: Yannick
 title:  "Sheety, l'api facile"
-date:   2020-03-23 18:00:00 +0100
+description: "hands on sheety api"
+lang: fr
+date:   2020-03-24 10:00:00 +0100
 categories: [dev]
 comments: true
 ---
@@ -54,4 +56,4 @@ Je ne pourrais pas tromper votre sens aiguisé de l'observation en vous parlant 
 
 Voilà, ainsi s'achève cette brève demo de Sheety, peut-être que ça peut en inspirer certains pour, je ne sais pas, une application complète (why not?), un *POC* rapidos ou juste pour le plaisir d'essayer.
 
-Pour les plus curieux, je vous invite à tester par vous-même en créant juste votre compte Sheety ainsi que votre feuille Google Sheets (je vais quand même pas vous laisser pourrir la mienne :D). Le code est disponible sur Stackblitz juste [là](https://stackblitz.com/edit/try-sheety).
+Pour les plus curieux, je vous invite à tester par vous-même en créant juste votre compte Sheety ainsi que votre feuille Google Sheets (je vais quand même pas vous laisser pourrir la mienne :D). Le code est disponible sur Stackblitz juste [là](https://stackblitz.com/edit/try-sheety)
