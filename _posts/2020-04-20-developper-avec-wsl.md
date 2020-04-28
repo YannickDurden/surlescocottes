@@ -25,7 +25,7 @@ Cela s'adresse à ceux qui ont Windows 10 bien entendu, alors rendez-vous dans l
 
 Et voilà ! Ubuntu installé en deux temps trois mouvements avec sa dernière version LTS.
 
-![terminak - ubuntu 18](/assets/images/wsl/terminal.png)
+![terminal - ubuntu 18](/assets/images/wsl/terminal.png)
 
 # LAMP
 
@@ -49,11 +49,11 @@ sudo apt install php-curl php-gd php-intl php-json php-mbstring php-xml php-zip
 
 Qui dit Symfony, dit musique. Non ? Presque, Composer. Là je vous renvoi vers la [documentation officielle](https://getcomposer.org/download/), c'est juste du copier/coller. On vérifie quand même que ça se soit bien passé :
 
-![terminak - composer](/assets/images/wsl/composer.png)
+![terminal - composer](/assets/images/wsl/composer.png)
 
 Cool ! On enchaîne avec l'installation de Symfony et on vérifie qu'il ne nous manque rien :
 
-![terminak - symfony](/assets/images/wsl/symfony.png)
+![terminal - symfony](/assets/images/wsl/symfony.png)
 
 <img style="display: block; margin-left: auto; margin-right: auto;" src="https://media.giphy.com/media/DqZKCC1rRht8FmnKbv/giphy.gif">
 
