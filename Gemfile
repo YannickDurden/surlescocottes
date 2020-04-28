@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 gem "jekyll", "~> 3.8.6"
-gem 'minimalist-theme', '~> 0.2.2'
+gem 'minimalist-theme', '~> 0.2.4'
 
 group :jekyll_plugins do
   gem 'jekyll-sitemap'
