@@ -1,9 +1,9 @@
 ---
 layout: post
 author: Yannick
-title:  "Transition - partie 3"
+title:  "Comment je n'ai pas roulé 100 miles"
 date:   2020-02-24 14:16:18 +0100
-categories: [story, feedback]
+categories: [story, bicyclette]
 comments: false
 ---
 

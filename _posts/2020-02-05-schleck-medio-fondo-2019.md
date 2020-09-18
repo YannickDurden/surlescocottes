@@ -1,9 +1,9 @@
 ---
 layout: post
 author: Yannick
-title:  "Transition - partie 1"
+title:  "Schleck Medio Fondo 2019"
 date:   2020-02-05 14:16:18 +0100
-categories: [story, feedback]
+categories: [story, bicyclette]
 comments: false
 ---
 3124, c’est le nombre de kilomètre parcouru en 2019 en quelques 80 sorties.
