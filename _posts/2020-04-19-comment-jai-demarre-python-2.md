@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Yannick
-title:  "Confinement semaine 3 à 5"
+title:  "Comment j'ai continué Python avec Pyside 2"
 description: "coronavirus confinement developpement apprendre python"
 lang: fr
 date:   2020-04-19 10:00:00 +0100

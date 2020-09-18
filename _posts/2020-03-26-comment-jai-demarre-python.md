@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Yannick
-title:  "Confinement semaine 1 et 2"
+title:  "Comment j'ai démarré avec Python"
 description: "coronavirus confinement developpement apprendre python"
 lang: fr
 date:   2020-03-26 10:00:00 +0100

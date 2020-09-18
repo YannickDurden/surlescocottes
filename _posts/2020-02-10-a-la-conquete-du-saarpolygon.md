@@ -1,9 +1,9 @@
 ---
 layout: post
 author: Yannick
-title:  "Transition - partie 2"
+title:  "A la conquête du Saarpolygon"
 date:   2020-02-10 14:16:18 +0100
-categories: [story, feedback]
+categories: [story, bicyclette]
 comments: false
 ---
 Ce que j’aime beaucoup, c’est découvrir de nouvelles routes et l’avantage dans le Grand Est (parce qu’il en faut quand même), c’est d’être limitrophe avec l’Allemagne, le Luxembourg et la Belgique. Alors lorsque le temps se prête au jeu et que j’ai une envie de chiller toute la journée il n’y a qu’une chose à faire : opération création d’itinéraire sur Strava.
@@ -11,9 +11,9 @@ Ce que j’aime beaucoup, c’est découvrir de nouvelles routes et l’avantage
 ![saarlouis itinéraire](/assets/images/saarlouis/saarlouis_map.png)
 <small>Une belle journée au programme</small>
 
-# Sarrpolygon
+# Saarpolygon
 
-Parfois je fais une petite infidélité à Strava et j’utilise Komoot pour créer mes itinéraires parce que contrairement au premier, il permet de faire des découvertes d’itinéraires ou alors des propositions de visites. C’est comme ça que j’ai découvert le **Sarrpolygon**.
+Parfois je fais une petite infidélité à Strava et j’utilise Komoot pour créer mes itinéraires parce que contrairement au premier, il permet de faire des découvertes d’itinéraires ou alors des propositions de visites. C’est comme ça que j’ai découvert le **Saarpolygon**.
 
 On le voit arriver de loin, ou plutôt il nous voit arriver et nous nargue lorsqu’on est sur la piste cyclable sur les hauteurs de Felsberg à une dizaine de kilomètre de l’objectif. Un mot sur cette piste emprunter pour rejoindre Saarlouis : nature.
 
